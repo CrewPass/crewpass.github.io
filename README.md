@@ -1,1 +1,1 @@
-# BasicWebpageCreator
+# Basic Template
